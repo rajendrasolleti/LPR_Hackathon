@@ -1,5 +1,4 @@
 Flask>0.12.3
 scikit-image>0.13
-matplotlib==2.2.2
 pytesseract>0.2.4
 Pillow>5.1.0
